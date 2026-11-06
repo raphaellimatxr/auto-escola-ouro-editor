@@ -1,0 +1,14 @@
+{
+  "name": "auto-escola-ouro-editor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Editor de artes de aprovados com foto, nome e exportação PNG.",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "test": "node tests/editor.test.cjs",
+    "check": "node --check app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
