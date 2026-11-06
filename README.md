@@ -31,7 +31,6 @@ vercel.json             Configuração da publicação
 package.json            Comandos de desenvolvimento e testes
 scripts/serve.cjs       Servidor para desenvolvimento local
 tests/editor.test.cjs   Testes de lógica com APIs do navegador simuladas
-GITHUB_PASSO_A_PASSO.md  Como guardar este projeto no GitHub
 ```
 
 ## Como executar
@@ -67,7 +66,7 @@ Também é possível conectar um repositório do GitHub à Vercel para que novas
 
 ## Imagens e privacidade
 
-A moldura e a foto de demonstração são distribuídas junto com o código. Antes de tornar o repositório público ou reutilizar esses materiais em outro projeto, confira a autorização para divulgar a marca e a imagem das pessoas. Para guardar seu primeiro projeto sem expor esses arquivos, comece com um repositório privado.
+Este repositório é público e contém o código, a moldura e a foto de demonstração do editor.
 
 As fotos escolhidas durante o uso não são salvas neste repositório. A imagem final só é baixada ou compartilhada quando o usuário solicita.
 
